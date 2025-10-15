@@ -2,7 +2,7 @@
 C | First year of Software Engineering
 # 🧠 C - First Projects
 
-**Author:** Samuel Navarro Martín  
+**Author:** Samuel 
 **Date:** 2025/2026  
 **Language:** C  
 **Level:** First year of Software Engineering
