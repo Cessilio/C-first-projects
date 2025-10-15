@@ -1,6 +1,6 @@
 /*
 Programa: Evaluación de empleado
-Autor: Samuel Navarro Martín
+Autor: Samuel 
 Fecha: 15/10/2025
 
 Descripción:
@@ -92,4 +92,5 @@ int main (){
 
     return 0;
 }
+
 
